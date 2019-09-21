@@ -1,4 +1,4 @@
-_This repository was originally at https://github.mit.edu/6894-sp19/modern-art-museums_
+_This repository was originally at https://github.mit.edu/6894-sp19/modern-art-museums, contributed by Yichen Jia, Qianhui Liang, Jialu Tan_
 # A Slice of MoMA
 
 **Team Member: Yichen Jia, Qianhui Liang, Jialu Tan**
