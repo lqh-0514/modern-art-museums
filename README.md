@@ -1,10 +1,10 @@
-_This repo was originally at https://github.mit.edu/6894-sp19/modern-art-museums, contributed by Yichen Jia, Qianhui Liang, Jialu Tan. It was imported for non-MIT access.
+_This repo was originally at https://github.mit.edu/6894-sp19/modern-art-museums, contributed by Yichen Jia, Qianhui Liang, Jialu Tan. It was imported for non-MIT access._
 # A Slice of MoMA
 
 **Team Member: Yichen Jia, Qianhui Liang, Jialu Tan**
 
 
-Visualization URL: 
+Visualization URL: https://lqh-0514.github.io/modern-art-museums/.
 
 Interactive Poster: https://youtu.be/P5spt-hrf68
 
