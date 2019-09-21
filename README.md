@@ -1,12 +1,9 @@
-_This repository was originally at https://github.mit.edu/6894-sp19/modern-art-museums, contributed by Yichen Jia, Qianhui Liang, Jialu Tan. Imported here for non-MIT access_
 # A Slice of MoMA
 
 **Team Member: Yichen Jia, Qianhui Liang, Jialu Tan**
 
 
-Visualization URL:https://lqh-0514.github.io/modern-art-museums/ 
-
-_(originally at https://github.mit.edu/pages/6894-sp19/modern-art-museums/_
+Visualization URL: https://github.mit.edu/pages/6894-sp19/modern-art-museums/ 
 
 Interactive Poster: https://youtu.be/P5spt-hrf68
 
@@ -33,5 +30,5 @@ Data are obtained from a dataset oraganized by MoMA (https://github.com/Museumof
 
 # Work Division
 
-Work is divided fairly among group members. Qianhui Liang was in charge of backend data wrangling and data processing，recommendation modelling and worked on the final paper. Yichen Jia built the frame of the webpage and built most part of the visualizations. Jialu Tan completed concept design of user interface, helped with second visualization, and worked on the final paper. 
+Work is divided fairly among group members. Qianhui Liang was in charge of backend data wrangling and data processing，and worked on the final paper. Yichen Jia built the frame of the webpage and built most part of the visualizations. Jialu Tan completed concept design of user interface, helped with second visualization, and worked on the final paper. 
 
