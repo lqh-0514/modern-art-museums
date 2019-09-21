@@ -1,0 +1,36 @@
+[
+    {
+        "Title": "Ferdinandsbrücke Project, Vienna, Austria, Elevation, preliminary version",
+        "Artist": [
+            "Otto Wagner"
+        ],
+        "ConstituentID": [
+            6210
+        ],
+        "Nationality": [
+            "Austrian"
+        ],
+        "BeginDate": [
+            1841
+        ],
+        "EndDate": [
+            1918
+        ],
+        "Gender": [
+            "Male"
+        ],
+        "Date": "1896",
+        "Medium": "Ink and cut-and-pasted painted pages on paper",
+        "AccessionNumber": "885.1996",
+        "Classification": "Architecture",
+        "Department": "Architecture & Design",
+        "DateAcquired": "1996-04-09",
+        "ObjectID": 2,
+        "URL": "http://www.moma.org/collection/works/2",
+        "ThumbnailURL": "http://www.moma.org/media/W1siZiIsIjU5NDA1Il0sWyJwIiwiY29udmVydCIsIi1yZXNpemUgMzAweDMwMFx1MDAzZSJdXQ.jpg?sha=137b8455b1ec6167",
+        "Height (cm)": 48.6,
+        "Width (cm)": 168.9,
+        "Domain color": "[[[197, 169, 121], 0.14001806684733514], [[200, 172, 124], 0.13279132791327913], [[193, 166, 119], 0.13008130081300814], [[194, 167, 120], 0.12917795844625113], [[199, 171, 123], 0.12737127371273713], [[194, 166, 119], 0.11653116531165311], [[195, 168, 121], 0.11472448057813911], [[196, 169, 122], 0.1093044263775971]]",
+        "Max Color": "[197, 169, 121]"
+    }
+]

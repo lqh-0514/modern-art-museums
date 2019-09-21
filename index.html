@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <link rel="stylesheet" type="text/css" href="styles/all.css" media="all" />
+  <script src="//d3js.org/d3.v4.min.js"></script>
+  <script src="https://d3js.org/d3-queue.v3.min.js"></script>
+  <script src="main.js"></script>
+  <!-- <script src="artistlife.js"></script> -->
+  <link href="https://fonts.googleapis.com/css?family=Noto+Serif" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Lora" rel="stylesheet">
+  <title>6.894 Final Project: Modern Art Museum</title>
+</head>
+
+<body>
+  <div id="project-descriptions">
+    <h1 class="title">A Slice Of MoMA</h1>
+    <!-- <p class="descriptions">6.894 Final Project</p> -->
+  </div>
+  <div id="graphDiv">
+    <div id="graphHead">
+      <div id="graphButtons">
+        <button type="button" class="utility-button" id="foldGraphDiv">FOLD</button>
+        <button type="button" class="utility-button" id="normalizeBar">DENORMALIZE BAR GRAPH</button>
+      </div>
+      <div id="slidecontainer">
+        <p class="labels">ZOOM  -</p>
+        <input type="range" min="1" max="20" value="1" class="slider" id="zoomRange">
+        <p class="labels right">+</p>
+      </div>
+    </div>
+  </div>
+  <div id="detailDiv">
+    <p>SELECTED ARTISTS:</p>
+    <p class="labels">click on the bar graph to add artisits to selection, click on artists' names to deselect</p>
+    <div id="selectedArtists"></div>
+    <div id="selectedArtworks"></div>
+    <div id="recommendation"></div>
+  </div>
+  <div id="thumbnailHead">
+    <button type="button" id="plotThumbnail" class="utility-button">PLOT THUMBNAIL</button>
+    <p class="labels notes">Note: it may take a while to plot all the thumbnails, please be patient :)</p>
+  </div>
+  <div id="thumbnailDiv">
+    <!-- <button type="button" id="plotThumbnail">PLOT THUMBNAIL</button> -->
+    <div id="thumbnails">
+      <div id="filtersDiv">
+        <input type="checkbox" name="c1" class="filterCheckbox" value="0" checked>
+        <label for="c1">Architecture & Design</label>
+        <input type="checkbox" name="c2" class="filterCheckbox" value="1" checked>
+        <label for="c2">Drawings & Prints</label>
+        <input type="checkbox" name="c3" class="filterCheckbox" value="2" checked>
+        <label for="c3">Painting & Sculpture</label>
+        <input type="checkbox" name="c4" class="filterCheckbox" value="3" checked>
+        <label for="c4">Photography</label>
+        <input type="checkbox" name="c5" class="filterCheckbox" value="4" checked>
+        <label for="c5">Media and Performance</label>
+      </div>
+    </div>
+    <div id="artworkSizes"></div>
+    <div id="artworkColor"></div>
+    <div id="artistlife"></div>
+  </div>
+  <div id="footer">
+    <p class="labels">This website is created by Yichen Jia, Qianhui Liang, Jialu Tan. It uses the dataset published by Museum of Modern Art.</p>
+    <a class="descLink" href="project.html">Project Description</a>
+  </div>
+</body>
